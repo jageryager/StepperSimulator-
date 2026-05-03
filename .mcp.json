@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "stepper-simulator": {
+      "command": "node",
+      "args": [
+        "c:\\Users\\jager\\Documents\\PlatformIO\\Projects\\StepperSimulator\\mcp-server\\index.js"
+      ],
+      "env": {}
+    }
+  }
+}

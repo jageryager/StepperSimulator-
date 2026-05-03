@@ -1,0 +1,14 @@
+{
+  "name": "stepper-simulator-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for StepperSimulator sketch on COM7",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "serialport": "^12.0.0"
+  }
+}
